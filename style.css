@@ -1,0 +1,26 @@
+ html {
+    background-color: rgb(221, 221, 221);
+ }
+ /* h1, button {
+    font-family: cursive, 'papyrus';
+    font-weight: bold;
+} */
+ button {
+    background-color: aqua;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+    font-size: large;
+ }
+ .italiano {
+    font-family: cursive;
+ }
+.scandi {
+    font-family: 'papyrus';
+ }
+ .exit {
+    margin-left: 300px;
+ }
+
+
